@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @arnadiad
-- 👀 I’m interested in Quality Assurance and WordPress Development
-- 🌱 I’m currently learning automated testing and advanced WordPress techniques
-- 💞️ I’m looking to collaborate on Saturdays and Sundays
-- 📫 How to reach me: [Your contact information or email]
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can eat a whole basket of sweet potatoes by myself!
+   ____   __    ____  ___      .__   __.  _______     __       __      
+   \   \ /  \  /   / /   \     |  \ |  | |   ____|   |  |     |  |     
+    \   Y    \/   / /  ^  \    |   \|  | |  |__      |  |     |  |     
+     \         /  /  /_\  \   |  . `  | |   __|     |  |     |  |    
+ ________/     /_  AltText ! A________________----------RE
+```!!!
+
 
 
 <!---
